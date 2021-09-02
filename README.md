@@ -6,21 +6,21 @@ CQG Internship 2021
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
 8  сен | Лекция | Software Design
-13 сен | Лаба   | Задачи
+15 сен | Лаба   | Задачи
 22 сен | Лекция | STL
-27 сен | Лаба   | STL
+29 сен | Лаба   | STL
 6  окт | Лекция | Move Semantics and Smart Pointers
-11 окт | Лаба   | Move Semantics and Smart Pointers
+13 окт | Лаба   | Move Semantics and Smart Pointers
 20 окт | Лекция | Modern C++: lambda, bind, function
-25 окт | Лаба   | Modern C++: lambda, bind, function
+27 окт | Лаба   | Modern C++: lambda, bind, function
 3  ноя | Лекция | Debugging
-8  ноя | Лаба   | Debugging
+10 ноя | Лаба   | Debugging
 17 ноя | Лекция | WinAPI+DLL
-22 ноя | Лаба   | WinAPI+DLL
+24 ноя | Лаба   | WinAPI+DLL
 1  дек | Лекция | Multithreading
-6  дек | Лаба   | Multithreading
+8  дек | Лаба   | Multithreading
 15 дек | Лекция | Regular expressions
-20 дек | Лаба   | Regular expressions
+22 дек | Лаба   | Regular expressions
 ?? дек | Зачет  | Вопросы к зачету будут выложены в конце семестра
 
 Лекции - 3 пара (12:40) в аудитории 3109.
