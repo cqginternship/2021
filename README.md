@@ -5,8 +5,8 @@ CQG Internship 2021
 
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
-8  сен | Лекция | Software Design
-15 сен | Лаба   | Задачи
+8  сен | Лекция | [Software Design](<1. Software Design/Software_design.pdf>)
+15 сен | Лаба   | [Задачи](<1. Software Design/Задачи.md>)
 22 сен | Лекция | [STL](<2. STL/STL Summary (2021).pdf>)
 29 сен | Лаба   | [STL](<2. STL/STL Task.md>)
 6  окт | Лекция | Move Semantics and Smart Pointers
