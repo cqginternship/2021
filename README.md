@@ -15,8 +15,8 @@ CQG Internship 2021
 27 окт | Лаба   | [Modern C++: lambda, bind, function](<4. Lambda, Bind, Function/Modern C++. Lambda, Bind, Function.md>)
 3  ноя | Лекция | [Debugging](<5. Debugging/Debugging.pdf>)
 10 ноя | Лаба   | [Debugging](<5. Debugging/lab-debugging/README.md>)
-17 ноя | Лекция | WinAPI+DLL
-24 ноя | Лаба   | WinAPI+DLL
+17 ноя | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
+24 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
 1  дек | Лекция | Multithreading
 8  дек | Лаба   | Multithreading
 15 дек | Лекция | Regular expressions
