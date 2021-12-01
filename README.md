@@ -17,8 +17,8 @@ CQG Internship 2021
 10 ноя | Лаба   | [Debugging](<5. Debugging/lab-debugging/README.md>)
 17 ноя | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
 24 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
-1  дек | Лекция | Multithreading
-8  дек | Лаба   | Multithreading
+1  дек | Лекция | [Multithreading](<7. Multithreading/Multithreading.pdf>)
+8  дек | Лаба   | [Multithreading](<7. Multithreading/Multithreading.md>)
 15 дек | Лекция | Regular expressions
 22 дек | Лаба   | Regular expressions
 ?? дек | Зачет  | Вопросы к зачету будут выложены в конце семестра
